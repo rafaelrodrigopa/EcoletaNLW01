@@ -1,6 +1,6 @@
 <h1 align="center"><a><img src="https://github.com/rafaelrodrigopa/EcoletaNLW01/blob/master/Img/title.svg"></a></h1>
 <h3 align="center">
-Sistema **Ecoleta** - 1ª Edição Next Level Week (RocketSeat)
+Sistema Ecoleta - 1ª Edição Next Level Week (RocketSeat)
 </h3>
 
 <p align="center">
