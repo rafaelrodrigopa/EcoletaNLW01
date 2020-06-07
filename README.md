@@ -104,4 +104,4 @@ Após carregar a aplicação abrir o expo no celular e escanear o QR Code na pá
 
 ![1920x1080](https://user-images.githubusercontent.com/27809524/83961941-a537fc00-a86e-11ea-9b05-4cf625b6efc6.jpg)
 
-🚀 : Construído por Rafael Rodrigo
+🚀 Construído por Rafael Rodrigo
